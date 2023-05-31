@@ -20,3 +20,8 @@ Mail
 5. Verificare se la mail dell'utente è già presente tra gli elementi del ciclo (all'interno del ciclo)
    - **SE** la mail è già presente nel ciclo, mandiamo un messaggio di bevenuto
 6. Stampare il messaggio
+
+**BONUS**
+
+0. Raccogliere gli elementi dal DOM
+1. Stampare in pagina

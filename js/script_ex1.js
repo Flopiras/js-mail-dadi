@@ -1,5 +1,9 @@
 console.log('js ok')
 
+//0 RACCOLGO GLI ELEMENTI DA DOM
+const emailOutput = document.getElementById('user-mail');
+const welcomeOutput = document.getElementById('welcome');
+
 //1 CREARE UN ARRAY DI EMAIL
 const emailList = [];
 
@@ -29,3 +33,8 @@ for(let i = 0; i<emailList.length; i++){
 
 //6. Stampare il messaggio
 console.log(result)
+
+//7 STAMPARE IN PAGINA
+emailOutput.innerText = userEmail;
+
+welcomeOutput.innerText = result;
