@@ -15,7 +15,8 @@ Mail
    - Creare una variabile per gli elementi della lista
 2. Chiedere all'utente la propria mail (fuori dal ciclo)
    - Creare una costante collegata alla mail dell'utente (fuori dal ciclo)
-3. Creare un ciclo di controllo per gli elementi nell'array
-4. Verificare se la mail dell'utente è già presente tra gli elementi del ciclo (all'interno del ciclo)
+3. Creare una variabile di "saluto"
+4. Creare un ciclo di controllo per gli elementi nell'array
+5. Verificare se la mail dell'utente è già presente tra gli elementi del ciclo (all'interno del ciclo)
    - **SE** la mail è già presente nel ciclo, mandiamo un messaggio di bevenuto
-   - **ALTRIMENTI** mandiamo un messaggio di negazione
+6. Stampare il messaggio
