@@ -25,3 +25,23 @@ Mail
 
 0. Raccogliere gli elementi dal DOM
 1. Stampare in pagina
+
+<hr>
+
+**ESERCIZIO 2**
+
+Gioco dei dadi
+
+Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
+Stabilire il vincitore, in base a chi fa il punteggio più alto.
+Stampare (in console)
+
+**TO DO**
+
+1. Creare un ciclo che contenga MASSIMO due numeri
+2. Creare una generatore di numeri casuali (da 1 a 6) [all'interno del ciclo]
+   - Generare due numeri casuali (il PRIMO per l'utente e l'ULTIMO per il pc)
+   - Pushare i numeri generati all'interno del ciclo
+     - **SE** il primo numero < del secondo, la vittoria va all'utente
+     - **SE INVECE** i numeri sono uguali, si è in parità
+     - **ALTRIMENTI** la vittoria è del PC
