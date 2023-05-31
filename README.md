@@ -1,0 +1,19 @@
+**ESERCIZIO 1**
+
+Mail
+
+- Inventiamo una lista di email a nostro piacimento
+- Chiediamo all'utente una mail (con un prompt)
+- controlliamo che la mail inserita sia presente nella lista
+- se è presente, gli diamo il benvenuto. (in console)
+- altrimenti gli diciamo che non può accedere (in console)
+
+**TO DO**
+
+1. Creare un array di email con email
+   - Fare una verifica
+2. Chiedere all'utente la propria mail (fuori dal ciclo)
+   - Creare una costante collegata alla mail dell'utente (fuori dal ciclo)
+3. Verificare se la mail dell'utente è già presente tra gli elementi del ciclo (all'interno del ciclo)
+   - **SE** la mail è già presente nel ciclo, mandiamo un messaggio di bevenuto
+   - **ALTRIMENTI** mandiamo un messaggio di negazione
