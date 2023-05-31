@@ -38,10 +38,11 @@ Stampare (in console)
 
 **TO DO**
 
-1. Creare un ciclo che contenga MASSIMO due numeri
-2. Creare una generatore di numeri casuali (da 1 a 6) [all'interno del ciclo]
+1. Creare una lista vuota (dove andrò a mettere i numeri estratti)
+2. Creare un ciclo che contenga MASSIMO due numeri
+3. Creare una generatore di numeri casuali (da 1 a 6) [all'interno del ciclo]
    - Generare due numeri casuali (il PRIMO per l'utente e l'ULTIMO per il pc)
-   - Pushare i numeri generati all'interno del ciclo
+   - Pushare i numeri generati all'interno della lista
      - **SE** il primo numero < del secondo, la vittoria va all'utente
      - **SE INVECE** i numeri sono uguali, si è in parità
      - **ALTRIMENTI** la vittoria è del PC
